@@ -1,0 +1,6879 @@
+<?xml version="1.0"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<wpt lat="47.704250000" lon="-3.371233334">
+		<name>Toular</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.698250001" lon="-3.375400001">
+		<name>A8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.695016667" lon="-3.377566667">
+		<name>A7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.691666667" lon="-3.385100001">
+		<name>A5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.692150001" lon="-3.388816667">
+		<name>A6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.686400001" lon="-3.401950001">
+		<name>A4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.682300001" lon="-3.416333334">
+		<name>A2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.679250001" lon="-3.407966667">
+		<name>Truies</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.684966667" lon="-3.389866667">
+		<name>TruieW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.651850001" lon="-3.438900001">
+		<name>Spbrek</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.658250001" lon="-3.321683334">
+		<name>SpeclN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.624100001" lon="-3.335050001">
+		<name>Guihel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.638950001" lon="-3.284450001">
+		<name>SpeclE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.325283334" lon="-3.109650001">
+		<name>Truie</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.284616667" lon="-3.196583334">
+		<name>Trui</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.673800001" lon="-3.924700001">
+		<name>An Ero</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.762900001" lon="-3.827733334">
+		<name>Treas</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.787683334" lon="-4.055400001">
+		<name>Treuz</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.812533334" lon="-4.041583334">
+		<name>Voleus</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.755266667" lon="-4.318550001">
+		<name>Spineg</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.066900001" lon="-4.787483334">
+		<name>TevenS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.069600001" lon="-4.798716667">
+		<name>TevenW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.073916667" lon="-4.795516667">
+		<name>TevenN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.073616667" lon="-4.802200001">
+		<name>Teven</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.060350001" lon="-4.944483334">
+		<name>Sein N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.057000000" lon="-5.026350001">
+		<name>Sein W</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.035600001" lon="-4.946916667">
+		<name>Sein S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.057166667" lon="-4.894533334">
+		<name>SeinNE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.032916667" lon="-4.907250001">
+		<name>SeinSE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.255300001" lon="-2.361166667">
+		<name>Start1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.696666667" lon="-2.383116667">
+		<name>W Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.254016667" lon="-2.405916667">
+		<name>Pencha</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.254116667" lon="-2.391800001">
+		<name>GreenB</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.256500001" lon="-2.432900001">
+		<name>WP1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.250450001" lon="-2.404733334">
+		<name>Guernd</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.264283334" lon="-2.493083334">
+		<name>BaLovr</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.238950001" lon="-2.375850001">
+		<name>PchRed</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.237300001" lon="-2.373733334">
+		<name>PchGre</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.214283334" lon="-2.517250000">
+		<name>NW Bch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.194000001" lon="-2.540383334">
+		<name>W Bnch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.173133334" lon="-2.435166667">
+		<name>SE Bch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.216650001" lon="-2.595066667">
+		<name>Spcl 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.248533334" lon="-2.636816667">
+		<name>GoueVs</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.146516667" lon="-2.713916667">
+		<name>SGuerd</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.260866667" lon="-2.713200001">
+		<name>Capela</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.288250000" lon="-2.547800001">
+		<name>WP5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.301883334" lon="-2.572850001">
+		<name>Cstoul</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.308766667" lon="-2.654916667">
+		<name>BonenF</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.297716667" lon="-2.634300001">
+		<name>FOUR</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.282150001" lon="-2.652166667">
+		<name>FourW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.281100000" lon="-2.625366667">
+		<name>FourE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.180583334" lon="-2.382750001">
+		<name>Lambrd</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.177116667" lon="-2.468116667">
+		<name>BANCHE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.243883334" lon="-2.775966667">
+		<name>Spcl 2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.238716667" lon="-2.767950001">
+		<name>Spcl 3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.233800000" lon="-2.780533334">
+		<name>Spcl 4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.238716667" lon="-2.789683334">
+		<name>Spcl 5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.355266667" lon="-2.569850000">
+		<name>Spcl 6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.376100001" lon="-2.587533334">
+		<name>Bayonl</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.419150001" lon="-2.577366667">
+		<name>DumetE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.431683334" lon="-2.600600001">
+		<name>DumetN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.412833334" lon="-2.636466667">
+		<name>DumetW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.403150001" lon="-2.616983334">
+		<name>DumetS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.430000000" lon="-2.789416667">
+		<name>Locmrq</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.426066667" lon="-2.839966667">
+		<name>Recher</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.312516667" lon="-2.882533334">
+		<name>Chario</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.321083334" lon="-2.835016667">
+		<name>Gd Cdx</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.324783334" lon="-2.828366667">
+		<name>Hdc SE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.341766667" lon="-2.840683334">
+		<name>Gurnch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.327700001" lon="-2.882616667">
+		<name>En Noh</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.335966667" lon="-2.916933334">
+		<name>Palair</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.351066667" lon="-2.961450001">
+		<name>WP2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.361366667" lon="-2.997033334">
+		<name>PdeFer</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.356650001" lon="-2.935800001">
+		<name>MnErVg</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.352316667" lon="-2.912383334">
+		<name>Soeurs</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.351366667" lon="-2.875683334">
+		<name>Chevre</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.366166667" lon="-2.907350001">
+		<name>ErRouz</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.368183334" lon="-2.920516667">
+		<name>Cdn1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.367783334" lon="-2.946100001">
+		<name>HouatS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.359366667" lon="-2.970183334">
+		<name>WP6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.385516667" lon="-2.977333334">
+		<name>HouatW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.379483334" lon="-2.916850001">
+		<name>Cdn2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.394566667" lon="-3.005450001">
+		<name>Roulau</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.312733334" lon="-3.046233334">
+		<name>Galere</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.394133334" lon="-2.937300001">
+		<name>HouatE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.350683334" lon="-2.862333334">
+		<name>NEHdic</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.402983334" lon="-2.949633334">
+		<name>Vielle</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.408883334" lon="-2.941783334">
+		<name>Houat1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.418016667" lon="-2.934133334">
+		<name>Houat2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.419900001" lon="-2.939300001">
+		<name>Houat3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.410600001" lon="-2.947116667">
+		<name>Houat4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.404316667" lon="-2.997916667">
+		<name>Bonen</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.407400001" lon="-3.004366667">
+		<name>GdCoin</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.408716667" lon="-3.017700001">
+		<name>WP7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.416966667" lon="-3.040100001">
+		<name>WP8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.418466667" lon="-3.010900001">
+		<name>WP9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.423150001" lon="-3.026566667">
+		<name>WP10</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.425600001" lon="-3.044583334">
+		<name>Dourel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.427933334" lon="-3.050833334">
+		<name>TeignS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.442566667" lon="-3.031166667">
+		<name>NETgns</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.431733334" lon="-3.068866667">
+		<name>BasMil</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.429466667" lon="-3.082083334">
+		<name>GouVsS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.437666667" lon="-3.088900000">
+		<name>GouVsN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.437266667" lon="-3.071466667">
+		<name>GouVsE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.457366667" lon="-3.045783334">
+		<name>TGNOUS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.452233334" lon="-3.074366667">
+		<name>Pondeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.444366667" lon="-3.096116667">
+		<name>BsChen</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.448983334" lon="-3.106416667">
+		<name>Cariou</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.457616667" lon="-3.087366667">
+		<name>3Piere</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.462966667" lon="-3.109050001">
+		<name>LeFour</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.465200001" lon="-3.119950001">
+		<name>Treach</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.464733334" lon="-3.133616667">
+		<name>Pouilx</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.449583334" lon="-3.033416667">
+		<name>BsNouv</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.467266667" lon="-3.039066667">
+		<name>BcQuib</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.594366667" lon="-3.393150001">
+		<name>Chats</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.484833334" lon="-3.290616667">
+		<name>BVDX</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.388350001" lon="-3.251933334">
+		<name>POULNS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.394716667" lon="-3.248183334">
+		<name>NPlns</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.390733334" lon="-3.278233334">
+		<name>NB-ile</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.274216667" lon="-3.091250001">
+		<name>B-ileS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.336933334" lon="-3.261600001">
+		<name>B-ileW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.365800001" lon="-3.154333334">
+		<name>B-ileE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.285066667" lon="-3.273916667">
+		<name>B1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.282583334" lon="-3.286733334">
+		<name>Spcl6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.298083334" lon="-3.244816667">
+		<name>BileSW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.481400001" lon="-3.147883334">
+		<name>QuibSW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.509016667" lon="-3.163066667">
+		<name>QuibW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.548983334" lon="-3.183283334">
+		<name>Quib N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.574400001" lon="-3.203083334">
+		<name>Spcl7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.592050001" lon="-3.221633334">
+		<name>PrNoir</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.642283334" lon="-3.245000001">
+		<name>Roheu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.632200001" lon="-3.398350000">
+		<name>Cougy</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.647416667" lon="-3.425450001">
+		<name>Melite</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.679533334" lon="-3.368216667">
+		<name>BstrS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.685150001" lon="-3.370066667">
+		<name>BstrN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.685033334" lon="-3.372983334">
+		<name>Errant</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.692100001" lon="-3.374516667">
+		<name>3pier</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.690350001" lon="-3.382416667">
+		<name>Cheval</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.000616667" lon="-2.666450000">
+		<name>S-N1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.034616667" lon="-2.559150001">
+		<name>S-N2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.058583334" lon="-2.439716667">
+		<name>Chevau</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.080350001" lon="-2.454900001">
+		<name>Theres</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.042716667" lon="-2.360283334">
+		<name>Pilier</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.946150001" lon="-2.389566667">
+		<name>Bavard</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.957550001" lon="-2.403750001">
+		<name>Reamur</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.916433334" lon="-2.468583334">
+		<name>Boeufs</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.831500001" lon="-2.297116667">
+		<name>Aigle</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.833883334" lon="-2.293083334">
+		<name>Spcl8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.763616667" lon="-2.230450001">
+		<name>PtYeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.742516667" lon="-2.320666667">
+		<name>Mayenc</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.842100000" lon="-2.461833334">
+		<name>Spcl9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.872850001" lon="-2.569516667">
+		<name>Spcl10</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.799433334" lon="-2.178200001">
+		<name>WP3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.878150001" lon="-2.193100001">
+		<name>WP11</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.942350001" lon="-2.277083334">
+		<name>WP12</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.756016667" lon="-2.043966667">
+		<name>WP13</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.683116667" lon="-1.968333334">
+		<name>Pilour</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.709966667" lon="-2.228433334">
+		<name>Cables</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.691883334" lon="-2.277400001">
+		<name>Corbx</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.683466667" lon="-2.328666667">
+		<name>SW Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.726933334" lon="-2.409900001">
+		<name>Chiens</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.722416667" lon="-2.312933334">
+		<name>E Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.737966667" lon="-2.366066667">
+		<name>N Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.628816667" lon="-1.901283334">
+		<name>WP4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.551816667" lon="-1.847466667">
+		<name>WP14</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.481550001" lon="-1.843633334">
+		<name>PtBarg</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.475616667" lon="-1.790116667">
+		<name>NouchS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.494850001" lon="-1.841900001">
+		<name>BARGES</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.480616667" lon="-2.899400001">
+		<name>CHIM RE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.657916667" lon="-3.274116667">
+		<name>WP20</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.663616667" lon="-3.285383334">
+		<name>WP21</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.670600001" lon="-3.287100001">
+		<name>WP22</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.695850000" lon="-3.463766667">
+		<name>Keroch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.718516667" lon="-3.513816667">
+		<name>GdCoch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.758466667" lon="-3.537000001">
+		<name>Guidel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.777266667" lon="-3.712050001">
+		<name>Verres</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.765050000" lon="-3.611000001">
+		<name>Aval</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.770183334" lon="-3.791550001">
+		<name>IleVrt</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.773300000" lon="-3.841983334">
+		<name>MenDu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.797416667" lon="-3.890566667">
+		<name>Dragon</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.794650001" lon="-4.058100001">
+		<name>Polain</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.801666667" lon="-4.078483334">
+		<name>Dehou</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.777116667" lon="-4.121550001">
+		<name>Rostl</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.807666667" lon="-4.110600001">
+		<name>Malvic</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.785300001" lon="-4.134483334">
+		<name>Helou</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.809000001" lon="-4.117550001">
+		<name>Benode</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.818183334" lon="-4.134966667">
+		<name>Bilien</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.789466667" lon="-4.152133334">
+		<name>Boulan</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.757400001" lon="-4.067266667">
+		<name>RougeG</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.777933334" lon="-4.040666667">
+		<name>Mout N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.775450001" lon="-4.016066667">
+		<name>Mout E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.767933334" lon="-4.038700001">
+		<name>Mout S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.752400001" lon="-3.998633334">
+		<name>Leriou</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.761750001" lon="-3.994183334">
+		<name>PourcE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.752900001" lon="-4.015150001">
+		<name>PourcW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.767250001" lon="-4.012050001">
+		<name>GdPour</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.775483334" lon="-4.177283334">
+		<name>Devel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.767283334" lon="-4.189350001">
+		<name>Karek</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.773133334" lon="-4.225050001">
+		<name>Reisan</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.760183334" lon="-4.259283334">
+		<name>ArGuis</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.762900001" lon="-4.336066667">
+		<name>Nevez</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.774433334" lon="-4.378016667">
+		<name>Caval</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.795533334" lon="-4.400033334">
+		<name>MenHir</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.810100001" lon="-4.403500001">
+		<name>Gaouch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.721233334" lon="-3.946816667">
+		<name>Penfrt</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.729333334" lon="-3.995466667">
+		<name>La Pie</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.729766667" lon="-3.966916667">
+		<name>GlenNE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.733766667" lon="-4.021300001">
+		<name>Glen N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.722650001" lon="-4.063683334">
+		<name>Blnier</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.733766667" lon="-4.045633334">
+		<name>GlenNW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.704566667" lon="-4.066383334">
+		<name>Glen W</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.696583334" lon="-4.034766667">
+		<name>GlenSW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.686416667" lon="-4.008783334">
+		<name>Glen S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.681733334" lon="-3.949316667">
+		<name>GlenSE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.703333334" lon="-3.933566667">
+		<name>Glen E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.709016667" lon="-3.830733334">
+		<name>Jaune</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.651766667" lon="-3.467783334">
+		<name>Grx NE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.654833334" lon="-3.496666667">
+		<name>GrxNNE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.652916667" lon="-3.515650001">
+		<name>Grx N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.637383334" lon="-3.506300001">
+		<name>Grx NW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.626733334" lon="-3.487883334">
+		<name>Grx W</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.617766667" lon="-3.462900001">
+		<name>Grx SW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.605666667" lon="-3.421150001">
+		<name>GrxSSW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.609850001" lon="-3.413983334">
+		<name>Grw S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.622683334" lon="-3.411650000">
+		<name>GrxSSE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.633316667" lon="-3.411250001">
+		<name>Grx SE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.643700001" lon="-3.419233334">
+		<name>Grx E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.380050001" lon="-3.204750000">
+		<name>BileNE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.289766667" lon="-3.068383334">
+		<name>BileSE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.684433334" lon="-4.102116667">
+		<name>Perens</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.646383334" lon="-4.023516667">
+		<name>Jument</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.690500001" lon="-3.417416667">
+		<name>Grasu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.694550001" lon="-3.368933334">
+		<name>Lcmalo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.702150001" lon="-3.372866667">
+		<name>Ecrevs</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.698983334" lon="-3.368466667">
+		<name>Paix</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.704083334" lon="-3.366383334">
+		<name>Pot e</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.846116667" lon="-3.955483334">
+		<name>Linuen</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.493933334" lon="-3.043116667">
+		<name>QuibN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.520866667" lon="-3.091266667">
+		<name>Bugale</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.543916667" lon="-2.989183334">
+		<name>Rvsion</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.527816667" lon="-2.974800001">
+		<name>Buison</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.512816667" lon="-2.936933334">
+		<name>Meaban</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.482816667" lon="-2.852166667">
+		<name>GdMont</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.491433334" lon="-2.882200001">
+		<name>Epieu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.496166667" lon="-2.881016667">
+		<name>StGild</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.526583334" lon="-3.054816667">
+		<name>C</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.539866667" lon="-3.039383334">
+		<name>B</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.513466667" lon="-3.070733334">
+		<name>D</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.513466667" lon="-3.096600001">
+		<name>E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.469433334" lon="-3.074950001">
+		<name>QuibS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.480233334" lon="-3.089416667">
+		<name>Dupont</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.489733334" lon="-3.092583334">
+		<name>Halgen</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.503416667" lon="-3.109650001">
+		<name>Pnoirs</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.513350001" lon="-3.118466667">
+		<name>F</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.523766667" lon="-3.126050001">
+		<name>Kerret</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.537533334" lon="-3.101083334">
+		<name>ErRoue</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.561900001" lon="-3.085816667">
+		<name>Segal</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.563466667" lon="-3.076600001">
+		<name>Pelan</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.565583334" lon="-3.061016667">
+		<name>Bernar</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.564950001" lon="-3.048633334">
+		<name>Baumer</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.549866667" lon="-3.027550000">
+		<name>A</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.557816667" lon="-3.012533334">
+		<name>Treho</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.569216667" lon="-3.013350001">
+		<name>Grassu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.554316667" lon="-2.988283334">
+		<name>Gazeg</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.560583334" lon="-3.002366667">
+		<name>Trinit</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.469416667" lon="-2.792183334">
+		<name>StJacq</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.459750001" lon="-2.656733334">
+		<name>Specl8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.401500001" lon="-2.980850001">
+		<name>HouatN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.681283334" lon="-3.351566667">
+		<name>GavreN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.685733334" lon="-3.314466667">
+		<name>GavreS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.619650001" lon="-3.222116667">
+		<name>Etel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.648166667" lon="-3.516416667">
+		<name>Grx NN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.298666667" lon="-2.628900001">
+		<name>SpFour</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.685150001" lon="-2.285600001">
+		<name>S Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.705600001" lon="-2.395000001">
+		<name>NW Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.487983334" lon="-1.814566667">
+		<name>LS W</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.485416667" lon="-1.804200001">
+		<name>LS SW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.342966667" lon="-3.144000001">
+		<name>Bile E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.284100001" lon="-3.141383334">
+		<name>Bile S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.367266667" lon="-3.267150001">
+		<name>BileNW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.617883334" lon="-3.441300001">
+		<name>Brazel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.308766667" lon="-2.654916667">
+		<name>WP18</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.260866667" lon="-2.456450001">
+		<name>WP19</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.273283334" lon="-2.497816667">
+		<name>WP23</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.244800001" lon="-2.399800001">
+		<name>WP24</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.263500001" lon="-2.643666667">
+		<name>Four S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.300616667" lon="-2.641416667">
+		<name>Four N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.527933334" lon="-3.169466667">
+		<name>QuibNW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.469000001" lon="-3.135300001">
+		<name>Quib S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.459183334" lon="-3.065933334">
+		<name>WP25</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.462433334" lon="-3.092250001">
+		<name>WP26</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.461683334" lon="-3.073433334">
+		<name>WP27</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.465133334" lon="-3.063050001">
+		<name>WP28</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.654100001" lon="-3.505633334">
+		<name>GrxN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.642966667" lon="-3.512300001">
+		<name>GrxNNW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.647650001" lon="-3.437183334">
+		<name>GrxE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.406183334" lon="-2.995916667">
+		<name>BonenN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.411933334" lon="-3.006900001">
+		<name>WP29</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.413183334" lon="-3.027633334">
+		<name>WP30</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.395716667" lon="-2.961300001">
+		<name>HoatNE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.392150001" lon="-2.993383334">
+		<name>WP31</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.371016667" lon="-2.959300001">
+		<name>HoatSW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.416466667" lon="-3.009250000">
+		<name>WP32</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.403750001" lon="-2.990533334">
+		<name>WP33</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.397500001" lon="-2.974750001">
+		<name>WP34</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.397416667" lon="-2.943383334">
+		<name>WP35</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.388566667" lon="-2.936483334">
+		<name>WP36</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.381200001" lon="-2.948516667">
+		<name>WP37</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.373450001" lon="-2.944833334">
+		<name>WP38</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.370016667" lon="-2.943066667">
+		<name>WP39</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.371933334" lon="-2.922683334">
+		<name>WP40</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.356400001" lon="-2.963583334">
+		<name>WP41</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.352850001" lon="-2.957050001">
+		<name>WP42</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.353633334" lon="-2.967950001">
+		<name>WP43</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.356650001" lon="-2.974633334">
+		<name>WP44</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.344883334" lon="-2.945616667">
+		<name>WP45</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.348166667" lon="-2.944433334">
+		<name>WP46</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.340616667" lon="-2.930850001">
+		<name>WP47</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.346600001" lon="-2.849833334">
+		<name>WP48</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.333216667" lon="-2.835466667">
+		<name>WP49</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.319216667" lon="-2.873933334">
+		<name>WP50</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.427566667" lon="-3.031366667">
+		<name>WP51</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.421516667" lon="-3.015816667">
+		<name>WP52</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.523000001" lon="-2.950916667">
+		<name>WP53</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.535716667" lon="-2.976116667">
+		<name>PtBuis</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.496600001" lon="-3.101716667">
+		<name>WP54</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.393483334" lon="-3.252933334">
+		<name>WP55</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.545566667" lon="-3.004683334">
+		<name>START</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.467266667" lon="-3.039066667">
+		<name>WP56</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.564950001" lon="-3.008966667">
+		<name>WP57</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.213016667" lon="-2.534300001">
+		<name>RboneN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.210566667" lon="-2.418466667">
+		<name>RboneV</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.167216667" lon="-2.451566667">
+		<name>RboneR</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.151666667" lon="-2.355816667">
+		<name>RboneS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.382766667" lon="-2.930416667">
+		<name>S1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.336633334" lon="-2.923566667">
+		<name>S2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.191533334" lon="-4.623150001">
+		<name>Bouc</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.136816667" lon="-4.596016667">
+		<name>BasseV</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.216083334" lon="-4.742316667">
+		<name>BasLis</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.252016667" lon="-4.772350001">
+		<name>Goeman</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.253300001" lon="-4.804000001">
+		<name>Vandre</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.222950001" lon="-4.613766667">
+		<name>Palu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.244966667" lon="-4.637416667">
+		<name>Palu N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.260650001" lon="-4.659616667">
+		<name>Pelen</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.278800001" lon="-4.691916667">
+		<name>Trepie</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.264916667" lon="-4.738416667">
+		<name>Parqte</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.166733334" lon="-4.568533334">
+		<name>ChvreW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.163500001" lon="-4.555250001">
+		<name>ChvreS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.164683334" lon="-4.542250001">
+		<name>ChvreE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.101500001" lon="-4.341100001">
+		<name>Trebou</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.101950000" lon="-4.339500001">
+		<name>DnzRge</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.219850001" lon="-4.489416667">
+		<name>Morgat</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.190700001" lon="-4.515466667">
+		<name>CrzonE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.222133334" lon="-4.437333334">
+		<name>MorgaE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.204616667" lon="-4.376166667">
+		<name>PtrezN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.162683334" lon="-4.299266667">
+		<name>PtrezS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.125966667" lon="-4.290666667">
+		<name>Dnz NE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.108583334" lon="-4.351433334">
+		<name>Dnz NW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.104116667" lon="-4.347316667">
+		<name>Dnz W</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.111466667" lon="-4.376216667">
+		<name>Dnz 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.108483334" lon="-4.414166667">
+		<name>Dnz 2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.100616667" lon="-4.465883334">
+		<name>Dnz 3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.091583334" lon="-4.536683334">
+		<name>Dnz 4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.087116667" lon="-4.570166667">
+		<name>Dnz 5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.086183334" lon="-4.597200001">
+		<name>Dnz 6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.076000001" lon="-4.632650000">
+		<name>Dnz 7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.074683334" lon="-4.668366667">
+		<name>Dnz 8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.066833334" lon="-4.717350001">
+		<name>Dnz 9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.078150001" lon="-4.707400001">
+		<name>JaunRa</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.058583334" lon="-4.724333334">
+		<name>Trep N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.042183334" lon="-4.737100001">
+		<name>Trep S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.040616667" lon="-4.756516667">
+		<name>Viell</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.039450000" lon="-4.759666667">
+		<name>Plate</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.031550001" lon="-4.727916667">
+		<name>Raz SE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.024583334" lon="-4.700016667">
+		<name>Aud 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.020550001" lon="-4.658316667">
+		<name>Aud 2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.004350001" lon="-4.593550001">
+		<name>Aud 3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.991083334" lon="-4.547400001">
+		<name>GamelW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.990950001" lon="-4.534050001">
+		<name>GamelE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.936966667" lon="-4.416466667">
+		<name>Aud 4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.878433334" lon="-4.372066667">
+		<name>Aud 5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.023800001" lon="-4.814250001">
+		<name>Chat</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.042466667" lon="-4.824116667">
+		<name>Cornoc</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.025150001" lon="-4.805733334">
+		<name>Chat E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.039316667" lon="-4.819983334">
+		<name>Sein E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.054050001" lon="-4.847250001">
+		<name>Braden</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.049583334" lon="-4.830150001">
+		<name>Sein 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.056500001" lon="-4.871166667">
+		<name>Sein 2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.058783334" lon="-4.995516667">
+		<name>Sein 3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.045983334" lon="-5.003666667">
+		<name>Sein 4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.038916667" lon="-4.975016667">
+		<name>Sein 5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.052083334" lon="-5.026266667">
+		<name>Sein 6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.062516667" lon="-5.135600001">
+		<name>ChausS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.030300001" lon="-4.881166667">
+		<name>Sein 7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.026800001" lon="-4.845600001">
+		<name>Sein 8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.315100001" lon="-4.699116667">
+		<name>Martel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.316950001" lon="-4.733566667">
+		<name>Iroise</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.320050000" lon="-4.799666667">
+		<name>Fourmi</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.290333334" lon="-4.826650001">
+		<name>Royale</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.343533334" lon="-4.801500001">
+		<name>LochCt</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.365183334" lon="-4.807100001">
+		<name>GdVino</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.307433334" lon="-4.968916667">
+		<name>PierNr</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.297900001" lon="-4.897650001">
+		<name>PieN S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.318483334" lon="-4.822300000">
+		<name>PieN E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.343616667" lon="-4.880666667">
+		<name>Fornig</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.344283334" lon="-4.834916667">
+		<name>Frng E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.373283334" lon="-4.841683334">
+		<name>Courlo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.400000001" lon="-4.855366667">
+		<name>Prceau</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.428750001" lon="-4.898633334">
+		<name>LeFaix</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.369700001" lon="-5.079383334">
+		<name>PierVt</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.437200001" lon="-5.025750001">
+		<name>KEREON</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.433816667" lon="-4.974783334">
+		<name>MolenN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.414233334" lon="-4.800700001">
+		<name>Corsen</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.449400001" lon="-4.812450000">
+		<name>Fnst 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.492333334" lon="-4.813783334">
+		<name>Fnst 2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.523250001" lon="-4.805083334">
+		<name>FOUR </name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.588550001" lon="-4.770600001">
+		<name>Paupan</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.612200001" lon="-4.768883334">
+		<name>Porsal</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.465866667" lon="-5.022066667">
+		<name>Korn</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.422033334" lon="-5.134083334">
+		<name>JUMEN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.445416667" lon="-5.150850001">
+		<name>NVIDIC</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.486100001" lon="-5.057316667">
+		<name>STIFF</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.484550001" lon="-5.121033334">
+		<name>Ouesst</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.289566667" lon="-4.968250001">
+		<name>Spcl 9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.488333334" lon="-5.366666667">
+		<name>DST 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.708333334" lon="-6.046650001">
+		<name>DST 3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.938650001" lon="-5.860166667">
+		<name>DST 4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.031650001" lon="-5.613316667">
+		<name>DST 5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.808633334" lon="-5.418433334">
+		<name>DST 6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.618333334" lon="-5.198333334">
+		<name>DST 7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.519450001" lon="-5.819533334">
+		<name>SW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.498150001" lon="-8.435733334">
+		<name>Brtany</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.766833334" lon="-6.484550001">
+		<name>DST 8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.767283334" lon="-6.274850001">
+		<name>DST 9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.591516667" lon="-6.275566667">
+		<name>DST 10</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.590950001" lon="-6.568450000">
+		<name>DST 11</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.892400000" lon="-6.083883334">
+		<name>DST 12</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.123916667" lon="-6.081483334">
+		<name>DST 13</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.333583334" lon="-6.083883334">
+		<name>DST 14</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.175700001" lon="-5.850733334">
+		<name>DST 16</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.014983334" lon="-5.851833334">
+		<name>DST 17</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.024633334" lon="-5.769600001">
+		<name>CrnwlW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.945333334" lon="-5.808900001">
+		<name>WOLF</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.816616667" lon="-6.545316667">
+		<name>Spcl 8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.973650001" lon="-6.251050001">
+		<name>Scily1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.985216667" lon="-6.297350001">
+		<name>Sciy2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.958766667" lon="-6.383033334">
+		<name>Scily3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.895566667" lon="-6.457616667">
+		<name>Scily4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.872766667" lon="-6.445633334">
+		<name>BISHOP</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.859966667" lon="-6.410033334">
+		<name>Scily5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.878450001" lon="-6.332916667">
+		<name>Scily6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.916550001" lon="-6.270350001">
+		<name>Scily7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="49.944966667" lon="-6.239500001">
+		<name>Scily8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.019583334" lon="-5.672666667">
+		<name>CrnwlS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.065116667" lon="-5.748633334">
+		<name>LgShp1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.067000001" lon="-4.690500001">
+		<name>Dnz 10</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.108066667" lon="-4.341100001">
+		<name>Finish</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.063716667" lon="-5.741233334">
+		<name>LgShp2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.065066667" lon="-5.733083334">
+		<name>LgShp3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.068750001" lon="-5.730466667">
+		<name>LgShp4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.061933334" lon="-5.721083334">
+		<name>Crnwl1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.035966667" lon="-5.688266667">
+		<name>Crnwl2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.043766667" lon="-5.696600001">
+		<name>Crnwl3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.069966667" lon="-5.720583334">
+		<name>Crnwl4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.083016667" lon="-5.712233334">
+		<name>Crnwl5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.119450001" lon="-5.725716667">
+		<name>Crnwl6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.132316667" lon="-5.717850001">
+		<name>Crnwl7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.168166667" lon="-5.679850001">
+		<name>Crnwl9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.150066667" lon="-5.695233334">
+		<name>Crnwl8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="50.335000001" lon="-5.851666667">
+		<name>BnShol</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.389283334" lon="-9.602950001">
+		<name>FASNET</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.460716667" lon="-9.345383334">
+		<name>Irld1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.453350001" lon="-9.422650000">
+		<name>Irld2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.431616667" lon="-9.477983334">
+		<name>Irld3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.419000001" lon="-9.514566667">
+		<name>Irld4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.427033334" lon="-9.529650001">
+		<name>Irld5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.520450001" lon="-8.964483334">
+		<name>GlHead</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.512116667" lon="-9.121716667">
+		<name>Irld6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.353333334" lon="-9.611666667">
+		<name>DST 18</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.256650001" lon="-9.565000001">
+		<name>DST 19</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.286466667" lon="-9.408866667">
+		<name>DST 20</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.381650001" lon="-9.455000001">
+		<name>DST 21</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="51.460000001" lon="-9.230000001">
+		<name>Stags</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.322050001" lon="-4.777083334">
+		<name>VxMoin</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.367416667" lon="-4.814533334">
+		<name>Rouget</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.384766667" lon="-4.817983334">
+		<name>StPier</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.350066667" lon="-4.791333334">
+		<name>Renard</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.333666667" lon="-4.781650001">
+		<name>Brit 1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.363633334" lon="-4.793700001">
+		<name>Brit 2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.391433334" lon="-4.782683334">
+		<name>Brit 3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.443533334" lon="-4.896400001">
+		<name>Lurone</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.417433334" lon="-4.881250001">
+		<name>OuessE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.413650001" lon="-4.819200001">
+		<name>StPaul</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.432583334" lon="-4.842083334">
+		<name>PlatrS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.440800001" lon="-4.845350001">
+		<name>PlatsN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.440416667" lon="-4.833700001">
+		<name>Valbel</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.432750001" lon="-4.803900001">
+		<name>Brit 4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.356766667" lon="-4.838900001">
+		<name>Molene</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="48.500000001" lon="-5.750000001">
+		<name>RaconS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.216750001" lon="-1.568400001">
+		<name>Ile Re</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.052183334" lon="-1.425333334">
+		<name>Oler N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.894966667" lon="-1.359383334">
+		<name>Oler S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.752300001" lon="-1.295483334">
+		<name>Maumus</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.607050001" lon="-1.367750001">
+		<name>NO2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.567816667" lon="-1.444450001">
+		<name>BXA</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.506683334" lon="-1.259900001">
+		<name>G</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.151050001" lon="-1.271700001">
+		<name>Spcl2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.100916667" lon="-1.434066667">
+		<name>Spcl1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.421166667" lon="-1.699400001">
+		<name>Bourge</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.686816667" lon="-2.311450001">
+		<name>SWYeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.690700001" lon="-2.353116667">
+		<name>W  Yeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.711700000" lon="-2.402883334">
+		<name>NWYeu</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.329350001" lon="-1.263333334">
+		<name>Lande1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="44.905266667" lon="-1.304033334">
+		<name>Lande2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="44.648583334" lon="-1.449150001">
+		<name>Spcl3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="44.351433334" lon="-1.378266667">
+		<name>Lande3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.695450001" lon="-1.497950001">
+		<name>Lande4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.563700001" lon="-2.022833334">
+		<name>Spcl4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.589716667" lon="-2.649616667">
+		<name>Spcl5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.639433334" lon="-3.045433334">
+		<name>Spcl11</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.890200001" lon="-3.791916667">
+		<name>Spcl12</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.993400000" lon="-1.416666667">
+		<name>Lande5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.106200001" lon="-1.254183334">
+		<name>WP15</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.207366667" lon="-1.417150001">
+		<name>La Roche</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="45.233350001" lon="-5.008433334">
+		<name>Gascgn</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="44.120250001" lon="-7.659116667">
+		<name>Spcl13</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.745083334" lon="-6.168450001">
+		<name>Spcl14</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.785000001" lon="-7.866400001">
+		<name>Ortegl</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.795533334" lon="-7.692566667">
+		<name>Estaq</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.682166667" lon="-5.865850001">
+		<name>Erbosa</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.603666667" lon="-6.241516667">
+		<name>Vidio</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.577183334" lon="-6.470283334">
+		<name>Busto</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.581583334" lon="-6.625900001">
+		<name>Roman</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.584533334" lon="-6.946566667">
+		<name>Tapia</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.679866667" lon="-7.339466667">
+		<name>Burela</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.727833334" lon="-7.463450001">
+		<name>Moras</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.763900001" lon="-7.625783334">
+		<name>Coelei</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.748083334" lon="-7.802933334">
+		<name>Ladrid</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.775533334" lon="-7.905683334">
+		<name>Limo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.766683334" lon="-7.718233334">
+		<name>Maeda</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.745050001" lon="-7.951733334">
+		<name>Cadro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.716900001" lon="-8.050616667">
+		<name>Candei</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.670550001" lon="-8.098283334">
+		<name>Petebe</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.622133334" lon="-8.193433334">
+		<name>Frouxe</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.578716667" lon="-8.320050001">
+		<name>Prior</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.393883334" lon="-8.459550001">
+		<name>SanPed</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.354416667" lon="-8.696966667">
+		<name>Pomba</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.368850000" lon="-8.838133334">
+		<name>Malant</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.327600001" lon="-8.924616667">
+		<name>Nariga</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.273916667" lon="-9.004983334">
+		<name>Insua</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.168166667" lon="-9.225766667">
+		<name>Fuera</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.053383334" lon="-9.316733334">
+		<name>Torina</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.875183334" lon="-9.287800001">
+		<name>CapFin</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.748300001" lon="-9.213400001">
+		<name>Casto</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.538033334" lon="-9.130083334">
+		<name>Panaro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.316650001" lon="-8.981583334">
+		<name>Onza</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.006766667" lon="-8.929500000">
+		<name>Oya</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="41.610300001" lon="-8.909666667">
+		<name>Viana</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="41.194950000" lon="-8.792550001">
+		<name>Porto</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="41.316000001" lon="-8.984483334">
+		<name>92D</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="41.150483334" lon="-9.582100001">
+		<name>89-01</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="40.661933334" lon="-8.783966667">
+		<name>Aveiro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="40.191366667" lon="-8.936150001">
+		<name>Murrac</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="39.420616667" lon="-9.556066667">
+		<name>Velha</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="39.478500001" lon="-9.567066667">
+		<name>Penich</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.707233334" lon="-9.514700001">
+		<name>Sol</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.406483334" lon="-9.247966667">
+		<name>Espich</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="37.938933334" lon="-8.932366667">
+		<name>Percei</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="37.017633334" lon="-9.004166667">
+		<name>Sagres</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.931816667" lon="-7.763000001">
+		<name>Bareta</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.078950001" lon="-6.383633334">
+		<name>Gibral</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="34.144766667" lon="-6.899000001">
+		<name>Rabat</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="31.724200001" lon="-9.745933334">
+		<name>Hadid</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.216933334" lon="-8.700100000">
+		<name>Lasfas</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.574866667" lon="-10.005166667">
+		<name>Agadir</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.844583334" lon="-11.132733334">
+		<name>Nun</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.998933334" lon="-13.028183334">
+		<name>Yubi</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.501883334" lon="-9.214650001">
+		<name>Spcl15</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.119850001" lon="-9.433566667">
+		<name>Spcl16</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="41.736633334" lon="-13.903400001">
+		<name>Spcl17</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.526983334" lon="-11.564566667">
+		<name>Spcl18</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.156516667" lon="-15.851483334">
+		<name>SelvaN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.135683334" lon="-15.854750001">
+		<name>SelvaS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.161266667" lon="-15.875983334">
+		<name>Terra</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.139183334" lon="-15.877116667">
+		<name>SelvaW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.133300001" lon="-15.911050001">
+		<name>Spcl19</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.063916667" lon="-16.041216667">
+		<name>Redond</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.036266667" lon="-16.012633334">
+		<name>SelvaP</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="30.026500001" lon="-16.054366667">
+		<name>Fora</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.432816667" lon="-13.502250001">
+		<name>Alegrz</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.208016667" lon="-13.399550001">
+		<name>Prieta</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.282483334" lon="-13.332733334">
+		<name>Roque</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.301950000" lon="-13.548050001">
+		<name>Roquet</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.126383334" lon="-13.669883334">
+		<name>Penedo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.034650001" lon="-13.821833334">
+		<name>Ensena</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.888583334" lon="-13.888166667">
+		<name>Gines</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.096183334" lon="-13.439550001">
+		<name>Paloma</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.015516667" lon="-13.463016667">
+		<name>Ancon</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.930633334" lon="-13.606066667">
+		<name>Lima</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.835766667" lon="-13.785883334">
+		<name>Papaga</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.771883334" lon="-13.812483334">
+		<name>Martin</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.562250001" lon="-13.819583334">
+		<name>Agna</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.395883334" lon="-13.843916667">
+		<name>Bajo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.228600001" lon="-13.935866667">
+		<name>Entala</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.190416667" lon="-14.090983334">
+		<name>Caraco</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.155100001" lon="-14.217116667">
+		<name>Calma</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.097633334" lon="-14.267116667">
+		<name>Moro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.041750001" lon="-14.327850001">
+		<name>Matora</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.060300001" lon="-14.420666667">
+		<name>Viento</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.055633334" lon="-14.516300001">
+		<name>Griego</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.104433334" lon="-14.504116667">
+		<name>Cotilo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.119200001" lon="-14.486550001">
+		<name>Pesebr</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.129550001" lon="-14.359700001">
+		<name>Islote</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.225266667" lon="-14.226383334">
+		<name>Guada</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.331550001" lon="-14.210783334">
+		<name>Blanco</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.442233334" lon="-14.152766667">
+		<name>Herrad</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.610766667" lon="-14.047450001">
+		<name>Mateos</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.721466667" lon="-14.020450001">
+		<name>Aduana</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.763466667" lon="-13.894100001">
+		<name>Gorda</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="26.446916667" lon="-14.198200001">
+		<name>Cabino</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="26.143283334" lon="-14.519833334">
+		<name>Bojado</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="25.616383334" lon="-14.705633334">
+		<name>Coral</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="25.299866667" lon="-14.853566667">
+		<name>Tono</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="24.708966667" lon="-14.926483334">
+		<name>Afriq1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="24.271433334" lon="-15.430850001">
+		<name>Afriq2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="23.677983334" lon="-16.022283334">
+		<name>Afriq3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="26.786133334" lon="-13.574866667">
+		<name>Oasis</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.403616667" lon="-13.304033334">
+		<name>Tutara</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="22.244616667" lon="-16.847766667">
+		<name>Afriq5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="22.899600001" lon="-16.355800000">
+		<name>Afriq4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="20.960433334" lon="-17.155733334">
+		<name>CapB</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="19.424133334" lon="-16.597066667">
+		<name>Afriq6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.183933334" lon="-15.404916667">
+		<name>Bajas</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.165633334" lon="-15.397233334">
+		<name>Nido</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.166516667" lon="-15.448800001">
+		<name>Confit</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.177300001" lon="-15.430633334">
+		<name>Vaca</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.152016667" lon="-15.398266667">
+		<name>Harbr</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.121366667" lon="-15.404683334">
+		<name>LasPal</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.483066667" lon="-10.177200000">
+		<name>Aglou</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.207883334" lon="-11.942000001">
+		<name>Nachti</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.065433334" lon="-1.395400001">
+		<name>Atioch</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.129583334" lon="-16.283916667">
+		<name>ForaN</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.101266667" lon="-16.282716667">
+		<name>PS NW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.051116667" lon="-16.275683334">
+		<name>PS SW</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.035566667" lon="-16.261200000">
+		<name>CSA 96</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.994383334" lon="-16.381783334">
+		<name>Barxo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.039183334" lon="-16.412816667">
+		<name>Ferro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="33.106466667" lon="-16.372966667">
+		<name>Areja</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.395400001" lon="-16.462400000">
+		<name>Agula</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.603316667" lon="-16.552683334">
+		<name>Faril</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.504883334" lon="-16.500483334">
+		<name>Pole</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.891033334" lon="-17.204950000">
+		<name>CSA97</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.816200001" lon="-17.282616667">
+		<name>Mad W</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.617183334" lon="-16.940566667">
+		<name>Mad S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.723000001" lon="-16.625566667">
+		<name>Mad E</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="32.848450001" lon="-16.910900001">
+		<name>Mad N</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.031483334" lon="-15.371850001">
+		<name>Sinama</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.932866667" lon="-15.345816667">
+		<name>Gando</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.800750001" lon="-15.416850001">
+		<name>Tenefe</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.729850001" lon="-15.580566667">
+		<name>Palm S</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.990333334" lon="-15.360316667">
+		<name>Melena</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.339766667" lon="-14.948050001">
+		<name>Expl1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.331266667" lon="-14.795316667">
+		<name>Expl2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.813250001" lon="-15.007083334">
+		<name>Expl3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.859450001" lon="-15.146183334">
+		<name>Expl4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.124666667" lon="-15.036050001">
+		<name>Expl5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="29.188016667" lon="-15.546416667">
+		<name>Spcl20</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.601083334" lon="-16.131116667">
+		<name>Anaga</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.296883334" lon="-16.341550001">
+		<name>Guimar</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.631066667" lon="-15.775200001">
+		<name>Expl6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.563366667" lon="-15.655100001">
+		<name>Expl7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.298816667" lon="-15.906333334">
+		<name>Expl8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.976233334" lon="-16.217033334">
+		<name>Expl9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.017083334" lon="-16.538800000">
+		<name>Roja</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.178133334" lon="-15.720600001">
+		<name>Sardin</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.191850001" lon="-15.791883334">
+		<name>Spcl21</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.012400001" lon="-15.843083334">
+		<name>Aldea</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.811550001" lon="-15.786000001">
+		<name>Mogan</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.627766667" lon="-17.989466667">
+		<name>Restig</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.729816667" lon="-17.914216667">
+		<name>Bonanz</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.854566667" lon="-17.934750001">
+		<name>Norte</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.779166667" lon="-18.133100001">
+		<name>Sal</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.699533334" lon="-18.151000001">
+		<name>Palome</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.358333333" lon="-9.628333333">
+		<name>DST1</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.175000000" lon="-9.733333333">
+		<name>DST2</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.881666667" lon="-9.733333333">
+		<name>DST3</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="42.881666667" lon="-10.228333333">
+		<name>DST4</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.316666667" lon="-10.228333333">
+		<name>DST5</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.523333333" lon="-10.085833333">
+		<name>DST6</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.203216667" lon="-9.154600001">
+		<name>Pajaro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.864983334" lon="-10.229633334">
+		<name>DST7</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.864850001" lon="-9.685966667">
+		<name>DST8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.662516667" lon="-9.666900001">
+		<name>DST9</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.565316667" lon="-10.194833334">
+		<name>DST10</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="38.681450001" lon="-10.229500001">
+		<name>DST11</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.943183334" lon="-9.720300001">
+		<name>DST12</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="37.041466667" lon="-9.194133334">
+		<name>DST13</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.945683334" lon="-9.172366667">
+		<name>DST14</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.858116667" lon="-9.072600001">
+		<name>DST15</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.835050001" lon="-8.954100001">
+		<name>DST16</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.417500001" lon="-9.098633334">
+		<name>DST17</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.476533334" lon="-9.358633334">
+		<name>DST18</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="36.737650000" lon="-9.660816667">
+		<name>DST19</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.400388535" lon="-1.794968686">
+		<name>Higuer</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.317852094" lon="-2.202758909">
+		<name>Getari</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.355282849" lon="-1.938272511">
+		<name>Lezo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.371741775" lon="-2.488180624">
+		<name>SanNic</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.461006037" lon="-2.752860239">
+		<name>Akatxa</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.448003050" lon="-2.963587039">
+		<name>Vilano</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.513628468" lon="-3.552477623">
+		<name>Ajo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.504533292" lon="-3.824191047">
+		<name>Lata</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.457980516" lon="-4.032276800">
+		<name>Solita</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.414439299" lon="-4.334497011">
+		<name>Castro</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.417323446" lon="-4.620852974">
+		<name>Balota</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.514051920" lon="-5.121978155">
+		<name>Vega</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.455274373" lon="-4.833421319">
+		<name>Huelga</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.562507828" lon="-5.396647036">
+		<name>Olivo</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.584486057" lon="-5.650618733">
+		<name>Gijon</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.614892203" lon="-6.010313156">
+		<name>Deva</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.587752495" lon="-7.234734855">
+		<name>Foz</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="43.461455940" lon="-8.363503942">
+		<name>Ferrol</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.091666667" lon="-15.393333333">
+		<name>TELE</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>15:12 04OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="28.115000000" lon="-15.413333333">
+		<name>FINISH</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>15:14 04OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.533333333" lon="-60.783333333">
+		<name>WP0000</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:19 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.450000000" lon="-60.800000000">
+		<name>WP0001</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:23 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.366666667" lon="-60.866666667">
+		<name>WP0002</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:24 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.416666667" lon="-60.900000000">
+		<name>WP0003</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:27 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="13.333333333" lon="-59.616666667">
+		<name>WP0004</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:32 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="13.150016667" lon="-59.400000000">
+		<name>WP0005</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:34 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="13.033333333" lon="-59.616666667">
+		<name>WP0006</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:35 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="13.116666667" lon="-59.666666667">
+		<name>WP0007</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>3</FECColor>
+			<GP39Comment>19:36 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.446083333" lon="-60.897750000">
+		<name>WP0008</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>2</FECColor>
+			<GP39Comment>19:48 31OCT19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="24.416666667" lon="-16.600000000">
+		<name>WP0009</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:00 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="23.900000000" lon="-15.500000000">
+		<name>WP0010</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:01 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="19.933333333" lon="-18.600000000">
+		<name>WP0011</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:02 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="19.533333333" lon="-16.733333333">
+		<name>WP0012</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:03 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="22.329086342" lon="-17.774380863">
+		<name>WP0013</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:08 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="23.380938194" lon="-17.209020749">
+		<name>WP0014</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:07 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="21.114271528" lon="-18.185388601">
+		<name>WP0015</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:09 01NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.017711070" lon="-15.872491125">
+		<name>WP0016</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>23:08 20191102</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="25.239148265" lon="-23.159213253">
+		<name>WP0017</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>21:29 20191104</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.858664355" lon="-28.925442010">
+		<name>WP0018</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>13:32 20191106</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.851890402" lon="-29.297512877">
+		<name>WP0019</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:54 20191106</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.881833574" lon="-29.293266244">
+		<name>WP0020</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>17:10 20191106</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.833394839" lon="-29.721367277">
+		<name>WP0021</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>21:32 20191106</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.192619889" lon="-31.145810740">
+		<name>WP0022</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>13:13 20191107</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="27.181756162" lon="-31.143597295">
+		<name>WP0023</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>13:20 20191107</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="26.182446460" lon="-33.797337155">
+		<name>WP0024</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>10:30 20191108</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="25.373249995" lon="-35.578543527">
+		<name>WP0025</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>23:02 20191108</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="25.405643401" lon="-35.848772008">
+		<name>WP0026</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>00:34 20191109</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="25.477402860" lon="-38.717489685">
+		<name>WP0027</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>16:27 20191109</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="17.894388094" lon="-51.272678648">
+		<name>WP0028</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>05:31 20191113</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="17.360454842" lon="-52.063811999">
+		<name>WP0029</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>11:52 20191113</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="17.381999356" lon="-52.191856547">
+		<name>WP0030</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>12:37 20191113</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="16.938101110" lon="-53.388004265">
+		<name>WP0031</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>22:36 13NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="16.300044527" lon="-54.394551884">
+		<name>WP0032</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>07:32 20191114</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="15.672552918" lon="-58.367601876">
+		<name>WP0033</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:09 20191115</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="15.626611049" lon="-58.382518944">
+		<name>WP0034</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:35 20191115</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="15.770075189" lon="-59.003172788">
+		<name>WP0035</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>20:07 15NOV19</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="15.670252384" lon="-59.492890183">
+		<name>WP0036</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>00:50 20191116</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.641927163" lon="-60.404534765">
+		<name>WP0037</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>02:40 20191117</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.560167815" lon="-60.471141064">
+		<name>WP0038</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>05:48 20191117</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="14.553376886" lon="-60.571570568">
+		<name>WP0039</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>06:51 20191117</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.148667114" lon="-1.170024174">
+		<name>WP0040</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+</gpx>
