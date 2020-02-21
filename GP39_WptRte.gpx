@@ -9,6 +9,15 @@
 			<GP39Flag>0</GP39Flag>
 		</extensions>
 	</wpt>
+	<wpt lat="47.704250000" lon="-3.371233334">
+		<name>Toular</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
 	<wpt lat="47.698250001" lon="-3.375400001">
 		<name>A8</name>
 		<extensions>
@@ -6869,6 +6878,69 @@
 	</wpt>
 	<wpt lat="46.148667114" lon="-1.170024174">
 		<name>WP0040</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.133388333" lon="-1.192173333">
+		<name>WMinim</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.105803333" lon="-1.254211667">
+		<name>RocheS</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.092279722" lon="-1.710487737">
+		<name>PAntio</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.481555000" lon="-1.843268333">
+		<name>PtBarg</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.421166667" lon="-1.699400000">
+		<name>Bourge</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.170660000" lon="-1.243506667">
+		<name>PontRe</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>4</FECColor>
+			<GP39Comment>14:05 20200201</GP39Comment>
+			<GP39Flag>1</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="46.110641667" lon="-1.268338333">
+		<name>CheauV</name>
 		<extensions>
 			<GP39Symbol>0</GP39Symbol>
 			<FECColor>4</FECColor>
