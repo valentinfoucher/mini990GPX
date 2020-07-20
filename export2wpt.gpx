@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="47.704250000" lon="-3.371233334">
+    <time>2020-07-20T17:51:11Z</time>
+    <name>Toular</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>648de4a5-3f3d-4ebf-a133-1fb27d786a38</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="47.698250001" lon="-3.375400001">
+    <time>2020-07-20T17:51:11Z</time>
+    <name>A8</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6c860488-a527-4ffb-b00e-caac178955cc</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="-1" step="-1" units="-1" colour="#FFFFFF" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <trk>
+    <extensions>
+      <opencpn:guid>108541f9-395c-4d6f-bd17-e6952dbd9d72</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2020-07-20T15:10:58Z</time>
+      </trkpt>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2020-07-20T15:11:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <extensions>
+      <opencpn:guid>4eb277b1-4da1-4c8e-92bf-ca604cc2581e</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2020-07-20T15:14:22Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <extensions>
+      <opencpn:guid>108541f9-395c-4d6f-bd17-e6952dbd9d72</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2020-07-20T15:10:58Z</time>
+      </trkpt>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2020-07-20T15:11:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

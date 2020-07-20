@@ -5,28 +5,38 @@
 
 
 import xmltodict
+#cleanData function
+def processWPT(wpt):
+    newWPT={}
+    extensions ={}
+    newWPT['extensions']=extensions
+    newWPT['@lat'] = wpt['@lat']
+    newWPT['@lon'] = wpt['@lon']
+    name = wpt['name']
+    if len(name)>6:
+        print("waypoint with name {} was not added since length {} is greater than 6".format(name,len(name)))
+        return None
+    newWPT['name'] = name
+    return newWPT
+
+
 
 def cleanData(data):
-    data['gpx'].pop('trk', None)
-    data['gpx'].pop('@creator', None)
-    data['gpx'].pop('@creator', None)
-    data['gpx'].pop('@xmlns:xsi', None)
-    data['gpx'].pop('@xmlns:gpxx', None)
-    data['gpx'].pop('@xsi:schemaLocation', None)
-    data['gpx'].pop('@xmlns:opencpn', None)
+    cleanData, gpx,waypointList ={}, {},[]
+    gpx['wpt']=waypointList
+    cleanData['gpx']=gpx
     for wpt in data['gpx']['wpt']:
-        print(wpt)
-        wpt.pop('time', None)
-        wpt.pop('sym', None)
-        wpt.pop('type', None)
-        wpt['extensions']={'GP39Symbol':0,'FECColor':0,'GP39Comment':'nocomment','GP39Flag':1}
+        processedWPT=processWPT(wpt)
+        waypointList.append(processedWPT)
+    return cleanData
 
 
 
-
-with open('export1.gpx') as fd:
+with open('../export2wpt.gpx') as fd:
     data = xmltodict.parse(fd.read())
-    cleanData(data)
+    cleanData1=cleanData(data)
+    with open('export2.gpx', 'w') as result_file:
+        result_file.write(xmltodict.unparse(cleanData1,pretty='True'))
 
 
 
@@ -34,6 +44,4 @@ with open('export1.gpx') as fd:
 
 
 
-with open('export2.xml', 'w') as result_file:
-    result_file.write(xmltodict.unparse(data))
 

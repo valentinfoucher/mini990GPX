@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<wpt lat="47.704250000" lon="-3.371233334">
+		<name>Toular</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+	<wpt lat="47.698250001" lon="-3.375400001">
+		<name>A8</name>
+		<extensions>
+			<GP39Symbol>0</GP39Symbol>
+			<FECColor>0</FECColor>
+			<GP39Comment></GP39Comment>
+			<GP39Flag>0</GP39Flag>
+		</extensions>
+	</wpt>
+</gpx>
